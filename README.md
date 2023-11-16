@@ -1,6 +1,9 @@
 # hackaru-timeular
 Track your time with the Timeular cube and Hackaru
 
+ sudo apt-get install libbluetooth-dev
+ pip install setuptools==58
+
 ## Motivation
 
 Timeular (https://timeular.com/) offers a hardware and a software component that helps you to keep track of your time. The great thing is, that you can use the hardware without their software. I really like the idea of the hardware cube. It simply is physically present right besides you. When using the Timeular cube, it is rare that I forget to start or stop the timer for a task. If you want to learn more about the tracker, visit https://timeular.com/tracker/.
